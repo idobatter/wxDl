@@ -14,13 +14,13 @@ How to run
     + wxDl.exe filename
   * command line
     + no option
-        wxDl
+      - wxDl
     + get uri
-        wxDl http://hoge.fugafoge.com/fuga.html http://fogefuga.com/
+      - wxDl http://hoge.fugafoge.com/fuga.html http://fogefuga.com/
     + create icon
-        wxDl -o 2
+      - wxDl -o 2
     + help
-        wxDl -h
+      - wxDl -h
 
 Required
 --------
