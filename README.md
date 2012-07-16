@@ -9,17 +9,17 @@ Sites
 How to run
 ----------
   * double click
-      wxDl.exe
+    + wxDl.exe
   * drag and drop
-      wxDl.exe filename
+    + wxDl.exe filename
   * command line
-      no option
+    + no option
         wxDl
-      get uri
+    + get uri
         wxDl http://hoge.fugafoge.com/fuga.html http://fogefuga.com/
-      create icon
+    + create icon
         wxDl -o 2
-      help
+    + help
         wxDl -h
 
 Required
